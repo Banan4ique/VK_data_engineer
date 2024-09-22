@@ -1,3 +1,10 @@
+"""
+python3 script.py <%Y-%m-%d date>
+Ex.
+python3 script.py 2024-09-22
+"""
+
+
 import os
 import sys
 import pandas as pd
